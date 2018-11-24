@@ -1,11 +1,1 @@
-<!doctype html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Belajar Git</title>
-</head>
-<body>
-    <p>Hello Git</p>
-	<p>coba nihhhhh</p>
-</body>
-</html>
+lah kok ilang sih
